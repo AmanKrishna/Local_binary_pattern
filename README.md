@@ -1,2 +1,3 @@
 # Local_binary_pattern
-Using Local Binary Pattern over facial expressions to identify the individual and the expression
+A lite-weight face rcognition algorith build using Local Binary Pattern
+Language: C
